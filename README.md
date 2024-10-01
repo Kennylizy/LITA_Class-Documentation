@@ -2,6 +2,16 @@
 
 ### Project Title: E-commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data cleaning and preparation
+
+Exploratory data analysis
+
 ### Project Overview
 This data is purposely to know how data analysis can impact business world positively
 ```
@@ -32,10 +42,19 @@ The primary source of data used here is Data Sale.csv and this is an open source
  
 ### Data Analysis
 ```
-  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+ This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
   ```SQL
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
-     - 
+
+### Data Visualization
+
+![53919089706_99c9a9e459_z](https://github.com/user-attachments/assets/60c407ac-d3c3-4d6c-9845-ced1e4c12bfb)
+
+
+
+
+
+
