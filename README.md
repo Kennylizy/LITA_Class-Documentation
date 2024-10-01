@@ -10,7 +10,7 @@ Tools Used
 
 Data cleaning and preparation
 
-[Data Analysis](#data-nalysis)
+[Data Analysis](#data-analysis)
 
 ### Project Overview
 This data is purposely to know how data analysis can impact business world positively
